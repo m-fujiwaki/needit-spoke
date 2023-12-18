@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-12-18 08:51:09">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0ddadc147623110646edd38c26d430c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Assessment Overview - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_1053422_needit_s">c50899af47563110646edd38c26d4359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">c50899af47563110646edd38c26d4359</sys_scope>
+        <sys_update_name>sys_portal_page_e0ddadc147623110646edd38c26d430c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+        <title>PA Assessment Overview - New Tab</title>
+        <user/>
+        <view>pa_assessment_overview_-_new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>20ddadc147623110646edd38c26d430d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">20ddadc147623110646edd38c26d430d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>24ddadc147623110646edd38c26d430d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Category Result Ratings by Category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">20ddadc147623110646edd38c26d430d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>6cddadc147623110646edd38c26d430d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>fb72dd75d7010100fceaa6859e6103a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">20ddadc147623110646edd38c26d430d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>a8ddadc147623110646edd38c26d430d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">20ddadc147623110646edd38c26d430d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>e4ddadc147623110646edd38c26d430d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>24ddadc147623110646edd38c26d430f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">24ddadc147623110646edd38c26d430f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>20ddadc147623110646edd38c26d4310</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">24ddadc147623110646edd38c26d430f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>28ddadc147623110646edd38c26d430f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>45b481b1d7010100fceaa6859e6103f3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">24ddadc147623110646edd38c26d430f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>6cddadc147623110646edd38c26d430f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Metrics by Data Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">24ddadc147623110646edd38c26d430f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>e0ddadc147623110646edd38c26d4310</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>2</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>28ddadc147623110646edd38c26d4311</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">28ddadc147623110646edd38c26d4311</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>24ddadc147623110646edd38c26d4312</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">28ddadc147623110646edd38c26d4311</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>2cddadc147623110646edd38c26d4311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>1ed7a83dbf5201007a6d257b3f073990</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">28ddadc147623110646edd38c26d4311</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>60ddadc147623110646edd38c26d4312</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">28ddadc147623110646edd38c26d4311</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>e4ddadc147623110646edd38c26d4312</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Stakeholders per Category</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>2cddadc147623110646edd38c26d4313</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">2cddadc147623110646edd38c26d4313</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>20ddadc147623110646edd38c26d4314</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Unanswered Questions by Assigned User</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">2cddadc147623110646edd38c26d4313</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>6cddadc147623110646edd38c26d4320</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>75381db1bf9201007a6d257b3f073928</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">2cddadc147623110646edd38c26d4313</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>a0ddadc147623110646edd38c26d4321</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">2cddadc147623110646edd38c26d4313</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>e0ddadc147623110646edd38c26d4314</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>64ddadc147623110646edd38c26d4321</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">64ddadc147623110646edd38c26d4321</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>24ddadc147623110646edd38c26d4322</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Assessments by State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">64ddadc147623110646edd38c26d4321</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>60ddadc147623110646edd38c26d4322</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">64ddadc147623110646edd38c26d4321</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>68ddadc147623110646edd38c26d4321</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>86164d71d7010100fceaa6859e61038e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">64ddadc147623110646edd38c26d4321</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>acddadc147623110646edd38c26d4321</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>3</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>a0ddadc147623110646edd38c26d430e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a0ddadc147623110646edd38c26d430e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>60ddadc147623110646edd38c26d430f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a0ddadc147623110646edd38c26d430e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>a4ddadc147623110646edd38c26d430e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>5a71993dbf5201007a6d257b3f073908</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a0ddadc147623110646edd38c26d430e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>acddadc147623110646edd38c26d430e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a0ddadc147623110646edd38c26d430e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>e8ddadc147623110646edd38c26d430e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Assessment Instances by Assessment Group</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>a4ddadc147623110646edd38c26d4310</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a4ddadc147623110646edd38c26d4310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>20ddadc147623110646edd38c26d4311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a4ddadc147623110646edd38c26d4310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>6cddadc147623110646edd38c26d4310</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Answered Questions by Assigned User</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a4ddadc147623110646edd38c26d4310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>a8ddadc147623110646edd38c26d4310</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a4ddadc147623110646edd38c26d4310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>e0ddadc147623110646edd38c26d4311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>e2b715fdbf5201007a6d257b3f0739aa</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                <sys_id>a8ddadc147623110646edd38c26d4312</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a8ddadc147623110646edd38c26d4312</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>24ddadc147623110646edd38c26d4313</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>a343a43dbf1201007a6d257b3f073996</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a8ddadc147623110646edd38c26d4312</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>60ddadc147623110646edd38c26d4313</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a8ddadc147623110646edd38c26d4312</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>68ddadc147623110646edd38c26d4313</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>Total Metrics by Metric Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2023-11-15 10:27:14">a8ddadc147623110646edd38c26d4312</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+                        <sys_id>acddadc147623110646edd38c26d4312</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+                        <value>172789b1d7010100fceaa6859e6103e2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

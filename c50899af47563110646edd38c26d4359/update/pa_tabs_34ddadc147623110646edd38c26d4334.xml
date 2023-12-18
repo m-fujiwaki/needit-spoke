@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Assessment Overview - New Tab">28ddadc147623110646edd38c26d4322</canvas_page>
+        <name>Assessment Overview - New Tab</name>
+        <page display_value="PA Assessment Overview - New Tab">e0ddadc147623110646edd38c26d430c</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 01:27:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34ddadc147623110646edd38c26d4334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assessment Overview - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_1053422_needit_s">c50899af47563110646edd38c26d4359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">c50899af47563110646edd38c26d4359</sys_scope>
+        <sys_update_name>pa_tabs_34ddadc147623110646edd38c26d4334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 01:27:14</sys_updated_on>
+    </pa_tabs>
+</record_update>
